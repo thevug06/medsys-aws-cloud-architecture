@@ -1,0 +1,1 @@
+# medsys-aws-cloud-architecture
