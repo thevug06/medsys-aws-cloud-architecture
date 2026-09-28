@@ -43,7 +43,10 @@ The proposed AWS services include:
 - Amazon CloudWatch
 - AWS Shield
 - Amazon GuardDuty
-  ![AWS Cloud Architecture](ArchitectureDiagram.png)
+
+
+
+![AWS Cloud Architecture](ArchitectureDiagram.png)
 
 ## Architecture Flow
 
